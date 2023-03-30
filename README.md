@@ -1,4 +1,4 @@
-I'm a fullstack developer and the team leader of Project Pathfinder, a cat and mouse style pvp game!
+I'm a fullstack developer and the team leader for Dungeon Dashers, a cat and mouse style pvp game!
 
 <!---
 CalebFrancis/CalebFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
